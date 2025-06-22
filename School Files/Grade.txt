@@ -1,0 +1,4 @@
+21.5/22
+
+(-0.5) In monster_fight.py, the take_damage() function in the Monster class should only receive an integer for the damage to take. 
+The defense attribute of the Monster instance should be used in the calculation.
